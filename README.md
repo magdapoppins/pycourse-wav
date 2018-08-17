@@ -119,11 +119,12 @@ def save_wav(file_name):
     return
 ```
 ### Sound as data
-![Sound wave shapes](http://www.indiana.edu/~emusic/etext/acoustics/acoustics_images/ch1_images/Fig27.gif)
+![Sound wave shapes](http://www.indiana.edu/~emusic/etext/acoustics/acoustics_images/ch1_images/Fig27.gif)  
+
 The sine curve is a "standard beep" - more uneven sounds require more uneven wave forms. It is common to preform a Fourier analysis on audio data. J. B. Fourier determined that
 1) all complex periodic waves may be expressed as the sum of a series of sinusoidal waves
 2) that these waves are all harmonics of the fundamental and
-3) that each harmonic has its own amplitude and phase (which we have not discussed yet)
+3) that each harmonic has its own amplitude and phase
 
 
 
